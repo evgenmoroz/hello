@@ -1,4 +1,3 @@
-<?php 
-echo "Hello world";
-
-
+<?php
+session_start();
+echo "hello World From Russia";
